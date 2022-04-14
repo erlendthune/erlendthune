@@ -10,8 +10,7 @@ See below for some of the work I've done privately and professionaly.
 You can install my apps from [my profile on IOS app store](https://apps.apple.com/no/developer/erlend-thune/id673691109).
 
 [Cheese heaven](https://github.com/erlendthune/xcode-cheeseheaven) is an app where I learnt how to use the new sprite kit in Xcode. Help the mouse jump
-over the perils and escape from the deep caves. If you manage to do this you will rejoin your friend in cheese heaven! All images and sounds 
-have public licenses and the mouse trap photo is taken by me :) Link to 
+over the perils and escape from the deep caves. If you manage to do this you will rejoin your friend in cheese heaven! 
 
 [Corrate](https://github.com/erlendthune/xcode-corrate) connects to your bluetooth heart rate device and tells you what your pulse is with sound as often as you like. 
 I made this app inspired by six-time Ironman Mark Allen and [what he wrote]( http://www.triathlontrainingarticles.com/Base.html) about heart rate training:
