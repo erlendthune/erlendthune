@@ -58,7 +58,7 @@ the video start playing from the corresponding timestamp.
 ## QTI converter
 [QTI](https://www.imsglobal.org/question/index.html) is as standard for exchanging digital questions. I wrote a PHP script
 to convert questions from excel to QTI, which can be [accessed here](https://www.erlendthune.com/xborrow/canvastabtoqti.php). 
-I got a request from an eployee of the [Americana university in Paraguay](https://www.americana.edu.py/) to reuse the code,
+I got a request from an employee of the [Americana university in Paraguay](https://www.americana.edu.py/) to reuse the code,
 which I then [provided here](https://github.com/etsikt/canvastabtoqti).
 
 
