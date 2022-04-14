@@ -49,7 +49,7 @@ Inspired by the interactive video transcripts used in the [Coursera platform](ht
 YouTube videos. The code was later improved by [DMR-coding](https://github.com/DMR-coding), and I am proud to 
 be [accredited for my work there.](https://github.com/DMR-coding/youtube-dynamic-transcripts#acknowledgements)
 
-I've later developed the same functionality for Vimeo. That solutino requires both backend and frontend code, and currently 
+I've later developed the same functionality for Vimeo. That solution requires both backend and frontend code, and currently 
 the backend code is only available 
 in the KPAS-API describe above, not as an independent module. An example of how the interactive vimeo transcripts work 
 [can be seen here](https://www.erlendthune.com/vimeo/vimeo.html). Notice that you can click anywhere in the interactive transcript, to make
