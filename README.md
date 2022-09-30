@@ -2,7 +2,9 @@
 
 You can read more about me on my [linkedIn profile](https://www.linkedin.com/in/erlendthune/). 
 
-I use [another profile](https://github.com/etsikt) for my professional projects.
+I have used [another profile](https://github.com/etsikt) for the projects I worked on in the [Norwegian directorate for education and training](https://udir.no).
+
+I now use this account for both professional and private projects.
 
 Below is a description of some of the private projects I have made.
 
